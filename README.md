@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/mgth/LittleBigMouse/master/LittleBigMouse.Ui/LittleBigMouse.Ui.Avalonia/Assets/lbm.png" width="200" alt="Little Big Mouse Logo"/>
 </p>
-Little Big Mouse (LBM) is an open-source software designed to enhance the multi-monitor experience on Windows 10 and 11 by providing accurate mouse screen crossover location within multi-DPI monitors environments. This is particularly useful for setups involving a 4K monitor alongside a full HD monitor.
+Little Big Mouse （LBM） 是一款开源软件，旨在通过在多 DPI 显示器环境中提供准确的鼠标屏幕交叉位置来增强 Windows 10 和 11 上的多显示器体验。这对于涉及 4K 显示器和全高清显示器的设置特别有用。
 
 ## Donations
 
